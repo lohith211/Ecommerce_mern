@@ -1,2 +1,2 @@
-# Ecommerce_mern
+# Ecommerce
 MERN stack E-commerce application
